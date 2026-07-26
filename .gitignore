@@ -1,0 +1,16 @@
+# Local extraction and runtime data
+Data/
+Logs/
+Backups/
+WebView2/
+
+# Temporary Windows files
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+
+# Keep release downloads versioned in this repository
+!downloads/*.exe
+!downloads/*.zip
+!downloads/*.txt
